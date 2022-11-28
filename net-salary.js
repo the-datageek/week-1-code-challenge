@@ -1,4 +1,4 @@
-//Challenge 3: Net Salary Calculator (Toy Problem)
+///Challenge 3: Net Salary Calculator (Toy Problem)
 //PAYE tax, NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
 
 const prompt = require('prompt-sync')();
