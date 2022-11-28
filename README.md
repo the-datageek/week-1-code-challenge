@@ -43,7 +43,8 @@ You will need node and npm installed globally on your machine.
 <code> node filename.js </code>
 
 #### To Run Server
-<code>npm server</code>
+<code>npm install -g live-server</code>
+<code>live-server</code>
 
 ## Required Files
  - const prompt = require("prompt-sync")();
