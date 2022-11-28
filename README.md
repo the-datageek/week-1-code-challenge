@@ -34,9 +34,13 @@ https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 ***
 
 ## Project Setup
+
+
+## Installation
 Clone this repository to your desktop. You will need node and npm installed globally on your machine.
-#### Installation:
+#### To Install
 <code>npm install</code>
+
 #### To Run Test Suite:
 <code> node filename.js </code>
 
