@@ -1,11 +1,14 @@
 # Week One Code Challenge
 ***
 ## Table of Contents
-1.[Project Setup](#project-setup)
-2.[Required Files](#required-files)
-3.[Installation](#installation)
-4.[Author and License](#author-and-license)
-5.[License](#license)
+1. [Project Setup](#project-setup)
+2. [Description](#description)
+3. [Required Files](#required-files)
+4. [Installation](#installation)
+5. [Author and License](#author-and-license)
+6. [License](#license)
+***
+## Description
 
 ## Project Setup
 Week One Code Challenge
