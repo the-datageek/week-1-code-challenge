@@ -5,10 +5,9 @@
     - [Student Grade Generator](student-grade-generator)
     - [Speed Detector](#speed-detector)
     - [Net Salary Calculator](net-salary-calculator)
-2. [Project Setup](#project-setup)
-3. [Required Files](#required-files)
-4. [Author](#author)
-5. [License](#license)
+3. [Project Setup](#project-setup)
+3. [Author and License](#author-and-license)
+
 ***
 ## Description
 Week one code challenge.
@@ -46,12 +45,12 @@ You will need node and npm installed globally on your machine.
 <code>npm install -g live-server</code>
 <code>live-server</code>
 
-## Required Files
+### Required Files
  - const prompt = require("prompt-sync")();
-
+***
 ## Author 
 This project was contributed to by:
 [Faith Moraa](https://github.com/the-datageek)
 
-## License
+#### License
 The project is licensed under ISC
