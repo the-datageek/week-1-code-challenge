@@ -1,22 +1,22 @@
 # Week One Code Challenge
 ***
 ## Table of Contents
-1. [Project Setup](#project-setup)
-2. [Description](#description)
-3. [Required Files](#required-files)
-4. [Installation](#installation)
-5. [Author and License](#author-and-license)
+1. [Description](#description)
+- Student Grade Generator
+- Speed Detector
+- Net Salary Calculator
+2. [Project Setup](#project-setup)
+3. [Installation](#installation)
+4. [Required Files](#required-files)
+5. [Author](#author)
 6. [License](#license)
 ***
 ## Description
-Write that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
-A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
-## Project Setup
-THe challenges are as follows:
+Week one code challenge.
+The challenges are as follows:
 - ### Student Grade Generator
-This program prompts the user to input student marks. The input should be between 0 and 100. Then outputs the correct grade.
+Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade: 
 A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
-
 ***
 - ### Speed Detector
 Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
@@ -32,19 +32,20 @@ https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
 
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 ***
-## Required Files
- - const prompt = require("prompt-sync")();
 
-## Installation
+## Project Setup
 Clone this repository to your desktop. You will need node and npm installed globally on your machine.
 #### Installation:
-[npm install](https://docs.npmjs.com/cli/v6/commands/npm-install)
+<code>npm install</code>
 #### To Run Test Suite:
 <code> node filename.js </code>
 
-## Author and License 
+## Required Files
+ - const prompt = require("prompt-sync")();
+
+## Author 
 This project was contributed to by:
- [Faith Moraa](https://github.com/the-datageek)
+[Faith Moraa](https://github.com/the-datageek)
 
 ## License
 The project is licensed under ISC
