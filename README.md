@@ -6,10 +6,9 @@
     - [Speed Detector](#speed-detector)
     - [Net Salary Calculator](net-salary-calculator)
 2. [Project Setup](#project-setup)
-3. [Installation](#installation)
-4. [Required Files](#required-files)
-5. [Author](#author)
-6. [License](#license)
+3. [Required Files](#required-files)
+4. [Author](#author)
+5. [License](#license)
 ***
 ## Description
 Week one code challenge.
