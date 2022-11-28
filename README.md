@@ -33,11 +33,11 @@ https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 ***
 
-## Project SetupT
+## Project Setup
 To access this project on your local files, you can clone it using this steps
-    Open the Terminal
-    Clone the repository: <a>https://github.com/the-datageek/week-1-code-challenge</a>
-    Change Directory: cd code-challenges
+- Open the Terminal
+- Clone the repository: <a>https://github.com/the-datageek/week-1-code-challenge</a>
+- Change Directory: cd code-challenges
 You will need node and npm installed globally on your machine.
 
 #### To Run Test Suite:
