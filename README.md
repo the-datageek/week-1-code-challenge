@@ -2,9 +2,9 @@
 ***
 ## Table of Contents
 1. [Description](#description)
-  - Student Grade Generator
-  - Speed Detector
-  - Net Salary Calculator
+    - [Student Grade Generator](student-grade-generator)
+    - [Speed Detector](#speed-detector)
+    - [Net Salary Calculator](net-salary-calculator)
 2. [Project Setup](#project-setup)
 3. [Installation](#installation)
 4. [Required Files](#required-files)
